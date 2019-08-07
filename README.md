@@ -45,4 +45,4 @@ Para usar a aplicação:
   
 ## Contribuições
 
-![Como contribuir para o projeto](https://img.shields.io/badge/Contribuição-Como%20Contribuir-blue.svg)
+[![Como contribuir para o projeto](https://img.shields.io/badge/Contribuição-Como%20Contribuir-blue.svg)](CONTRIBUTING.md)
