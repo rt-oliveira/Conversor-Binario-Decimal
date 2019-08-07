@@ -1,3 +1,5 @@
+![Licença da aplicação](https://img.shields.io/github/license/rt-oliveira/Conversor-Binario-Decimal)
+
 # Conversor Binário-Decimal
 
 Muitas pessoas, principalmente aquelas que trabalham em Tecnologia da Informação/Computação, ou então são estudantes da área, veem com frequência números em base binária, isto é, que possuem somente os dígitos 0 e 1 em sua composição.
